@@ -1,0 +1,5 @@
+Benchmark Results:
+Total runs: 500
+Successful paths: 492
+Average time per run: 10.0404ms
+Average time to first solution: 0 seconds

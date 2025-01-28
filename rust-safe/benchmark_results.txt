@@ -1,0 +1,5 @@
+Benchmark Results:
+Total runs: 500
+Successful paths: 500
+Average time per run: 2.333559ms
+Average memory (nodes) per run: 1495
